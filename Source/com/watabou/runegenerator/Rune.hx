@@ -7,8 +7,8 @@ class Rune {
 	private static inline var SOLID	= 0xFF000000;
 	private static inline var TIP	= 0x99000000;
 
-	public static inline var WIDTH	= 5;
-	public static inline var HEIGHT	= 7;
+	public static inline var WIDTH	= 7;
+	public static inline var HEIGHT	= 10;
 
 	private static inline var MIN_WEIGHT	= 11;
 	private static inline var MAX_WEIGHT	= 21;
